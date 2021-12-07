@@ -1,6 +1,7 @@
 # Yadds
 
 [![GitHub](https://img.shields.io/github/license/shensven/Yadds)](./LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshensven%2FYadds.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshensven%2FYadds?ref=badge_shield)
 [![](https://img.shields.io/github/package-json/dependency-version/shensven/Yadds/dev/electron)](./package.json)
 [![](https://img.shields.io/github/package-json/dependency-version/shensven/Yadds/react)](./package.json)
 [![Test](https://github.com/shensven/Yadds/actions/workflows/test.yml/badge.svg?branch=dev)](https://github.com/shensven/Yadds/actions/workflows/test.yml)
@@ -31,3 +32,7 @@ To package apps for the local platform:
 ```bash
 npm run package
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshensven%2FYadds.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshensven%2FYadds?ref=badge_large)
